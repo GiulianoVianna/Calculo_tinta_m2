@@ -1,0 +1,51 @@
+fieldset{
+    width: 300px;
+    margin-left: 40px;
+    border-color:darkgray;
+    background-color:rgb(222, 218, 218);
+}
+
+legend{
+    background-color:red;
+    color:white;
+    border-radius: 5px;
+}
+
+img{
+    width: 100%;
+    border-radius: 50px;
+}
+
+.combo_box{
+    margin-left: 20px;
+    background-color:yellow;
+    color:black;
+    border-radius: 5px;
+}
+
+label{
+    display: inline-block;
+    width: 115px;
+    margin: 0 20px;
+}
+
+.alinhamento {
+    width: 20%;
+    text-align: center;
+    color:darkblue; 
+}
+
+#calcular{
+    display: inline-block;
+    margin-left: 20px;
+    color:darkblue;    
+}
+
+#limpar{
+    display: inline-block;
+    margin-left: 10px;
+    color:red; 
+}
+
+
+
