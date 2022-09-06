@@ -1,5 +1,5 @@
 # Calculo de tinta por m2.
 ### Aplicação desenvolvida em HTML, CSS e Javascript.
 
-<img width="261" alt="image" src="https://user-images.githubusercontent.com/101942554/188723787-4c1598c1-9cf4-4a74-bfab-2b1e4efac165.png">
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/101942554/188725639-7489f173-5c7e-41de-b75d-a5305d45ea8f.png">
 
